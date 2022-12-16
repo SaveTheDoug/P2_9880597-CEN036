@@ -1,0 +1,1 @@
+no código de: set1=set('accggttaata') é criado um set onde os itens são cada uma das letras presentes nesta string, já no caso de: set2={'accggttaata'} é criado apenas um set cujo item é a string entre as aspas(‘’)
